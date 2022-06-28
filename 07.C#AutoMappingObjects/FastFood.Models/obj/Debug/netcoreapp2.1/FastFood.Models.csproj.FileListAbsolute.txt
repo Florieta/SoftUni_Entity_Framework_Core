@@ -1,0 +1,10 @@
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.deps.json
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csproj.AssemblyReference.cache
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfoInputs.cache
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfo.cs
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csproj.CoreCompileInputs.cache
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.dll
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.pdb

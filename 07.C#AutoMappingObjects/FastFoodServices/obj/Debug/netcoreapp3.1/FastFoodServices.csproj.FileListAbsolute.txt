@@ -1,0 +1,15 @@
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\bin\Debug\netcoreapp3.1\FastFoodServices.deps.json
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\bin\Debug\netcoreapp3.1\FastFoodServices.dll
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\bin\Debug\netcoreapp3.1\FastFoodServices.pdb
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\bin\Debug\netcoreapp3.1\FastFood.Data.dll
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\bin\Debug\netcoreapp3.1\FastFood.Models.dll
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\bin\Debug\netcoreapp3.1\FastFood.Data.pdb
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\bin\Debug\netcoreapp3.1\FastFood.Models.pdb
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\obj\Debug\netcoreapp3.1\FastFoodServices.csproj.AssemblyReference.cache
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\obj\Debug\netcoreapp3.1\FastFoodServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\obj\Debug\netcoreapp3.1\FastFoodServices.AssemblyInfoInputs.cache
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\obj\Debug\netcoreapp3.1\FastFoodServices.AssemblyInfo.cs
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\obj\Debug\netcoreapp3.1\FastFoodServices.csproj.CoreCompileInputs.cache
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\obj\Debug\netcoreapp3.1\FastFoodServices.csproj.CopyComplete
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\obj\Debug\netcoreapp3.1\FastFoodServices.dll
+C:\Users\Aspire\source\repos\C#AutoMappingObjects\FastFoodServices\obj\Debug\netcoreapp3.1\FastFoodServices.pdb
