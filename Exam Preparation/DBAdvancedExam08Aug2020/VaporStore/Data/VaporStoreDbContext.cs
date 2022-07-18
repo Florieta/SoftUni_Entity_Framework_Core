@@ -1,6 +1,7 @@
 ﻿namespace VaporStore.Data
 {
 	using Microsoft.EntityFrameworkCore;
+    using System;
     using VaporStore.Data.Models;
 
     public class VaporStoreDbContext : DbContext
@@ -44,5 +45,7 @@
 			model.Entity<GameTag>()
 				.HasKey(x => new { x.GameId, x.TagId });
 		}
-	}
+
+        
+    }
 }
