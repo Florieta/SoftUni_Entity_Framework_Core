@@ -1,10 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Theatre.DataProcessor.ExportDto
+﻿namespace Theatre.DataProcessor.ExportDto
 {
-    class ExportActorsDto
+    using System.Xml.Serialization;
+
+    [XmlType("Actor")]
+    public class ExportActorsDto
     {
+        [XmlAttribute("FullName")]
+        public string FullName { get; set; }
+
+        [XmlAttribute("MainCharacter")]
+        public string MainCharacter { get; set; }
     }
 }
