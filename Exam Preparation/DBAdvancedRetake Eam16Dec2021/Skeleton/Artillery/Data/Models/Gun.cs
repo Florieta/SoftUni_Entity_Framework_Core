@@ -15,7 +15,7 @@ namespace Artillery.Data.Models
         }
         [Key]
         public int Id { get; set; }
-
+        [Required]
         [ForeignKey(nameof(Manufacturer))]
         public int ManufacturerId { get; set; }
 
